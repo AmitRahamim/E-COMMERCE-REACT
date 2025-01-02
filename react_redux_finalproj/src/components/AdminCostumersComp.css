@@ -1,0 +1,33 @@
+/* AdminCostumersComp.css */
+.custom-table-container {
+    width: 100%;
+    max-width: 900px;  /* Set the maximum width of the table */
+    margin: 0 auto;  /* Center the table horizontally */
+    background-color: #ffffff;  /* White background for the table */
+    border-radius: 8px;  /* Rounded corners */
+    box-shadow: 6px 6px 6px 6px rgba(22, 16, 16, 0.4); /* Subtle shadow around the table */
+  }
+  
+  .custom-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .custom-table-container th,
+  .custom-table-container td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid black;  /* Light gray border */
+  }
+  
+  .custom-table-container th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .custom-table-container td {
+    background-color: #ffffff;
+  }
+  
